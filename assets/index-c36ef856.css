@@ -1,0 +1,1 @@
+body{font-family:inherit;max-width:400px}.app{display:flex;flex-direction:column;justify-content:center;align-items:center}h2{margin:0}.grid-box{margin-top:15%;display:grid;grid-template-columns:7rem 7rem 7rem;grid-template-rows:7rem 7rem 7rem}.box{border:1px solid black}
