@@ -13,11 +13,11 @@ export default [
     },   
     {
         id: 4,
-        on: false
+        on: true
     },   
     {
         id: 5,
-        on: false
+        on: true
     },   
     {
         id: 6,
